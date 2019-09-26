@@ -1,0 +1,359 @@
+{
+    "created_time": "2019-08-26T23:59:26Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-08-26T23:59:26Z",
+            "modified_time": "2019-08-27T00:00:38Z",
+            "name": "2019-8-19 1.1 Linear Equation & Linear System.md",
+            "tags": [
+                "Lecture Notes"
+            ]
+        },
+        {
+            "attachment_folder": "20190826200033591_13908",
+            "attachments": [
+                {
+                    "name": "WS1.1.pdf"
+                }
+            ],
+            "created_time": "2019-08-26T23:59:26Z",
+            "modified_time": "2019-08-29T13:16:25Z",
+            "name": "2019-8-20 WS 1.1.md",
+            "tags": [
+                "Worksheet"
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-08-26T23:59:26Z",
+            "modified_time": "2019-08-27T00:02:06Z",
+            "name": "2019-8-21 1.2 Row Reduction, Echelon Forms, and Pivots.md",
+            "tags": [
+                "Lecture Notes"
+            ]
+        },
+        {
+            "attachment_folder": "20190826200224648_16982",
+            "attachments": [
+                {
+                    "name": "WS1.2.pdf"
+                }
+            ],
+            "created_time": "2019-08-26T23:59:26Z",
+            "modified_time": "2019-08-29T13:16:14Z",
+            "name": "2019-8-22 WS 1.2.md",
+            "tags": [
+                "Worksheet"
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-08-26T23:59:26Z",
+            "modified_time": "2019-08-29T11:57:43Z",
+            "name": "2019-8-23 1.3 Vector Equations.md",
+            "tags": [
+                "Lecture Notes"
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-08-26T23:59:26Z",
+            "modified_time": "2019-08-26T23:59:26Z",
+            "name": "2019-8-24 Homework.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-08-26T23:59:26Z",
+            "modified_time": "2019-08-27T00:07:27Z",
+            "name": "2019-8-26 1.4 Matrix Equation.md",
+            "tags": [
+                "Lecture Notes"
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-08-26T23:59:26Z",
+            "modified_time": "2019-08-28T13:08:21Z",
+            "name": "2019-8-26 1.5 Solution Sets of Linear System.md",
+            "tags": [
+                "Lecture Notes"
+            ]
+        },
+        {
+            "attachment_folder": "20190827082514839_7012",
+            "attachments": [
+                {
+                    "name": "WS1.3 and 1.4.pdf"
+                }
+            ],
+            "created_time": "2019-08-27T12:24:59Z",
+            "modified_time": "2019-08-29T13:15:59Z",
+            "name": "2019-8-27 WS 1.3 & 1.4.md",
+            "tags": [
+                "Worksheet"
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-08-28T13:09:24Z",
+            "modified_time": "2019-09-04T12:41:07Z",
+            "name": "2019-8-28 1.7 Linear Independence.md",
+            "tags": [
+                "Lecture Notes"
+            ]
+        },
+        {
+            "attachment_folder": "20190828160608597_13667",
+            "attachments": [
+                {
+                    "name": "SampleQuiz1Sol.pdf"
+                }
+            ],
+            "created_time": "2019-08-28T20:05:42Z",
+            "modified_time": "2019-08-28T20:06:42Z",
+            "name": "2019-8-28 Sample Quiz 1.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "20190829091513261_7406",
+            "attachments": [
+                {
+                    "name": "WS1.5.pdf"
+                }
+            ],
+            "created_time": "2019-08-29T13:13:15Z",
+            "modified_time": "2019-08-29T13:39:35Z",
+            "name": "2019-8-29 WS 1.5.md",
+            "tags": [
+                "Worksheet"
+            ]
+        },
+        {
+            "attachment_folder": "20190903081636517_21027",
+            "attachments": [
+                {
+                    "name": "WS1.7.pdf"
+                }
+            ],
+            "created_time": "2019-09-03T12:15:27Z",
+            "modified_time": "2019-09-05T13:19:07Z",
+            "name": "2019-9-3 WS 1.7.md",
+            "tags": [
+                "Worksheet"
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-04T16:06:08Z",
+            "modified_time": "2019-09-05T12:28:07Z",
+            "name": "2019-9-4 1.8 Linear Transformation.md",
+            "tags": [
+                "Lecture Notes"
+            ]
+        },
+        {
+            "attachment_folder": "20190905081442120_17244",
+            "attachments": [
+                {
+                    "name": "WS1.8.pdf"
+                }
+            ],
+            "created_time": "2019-09-05T12:14:15Z",
+            "modified_time": "2019-09-05T13:41:31Z",
+            "name": "2019-9-5 WS 1.8.md",
+            "tags": [
+                "Worksheet"
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-06T13:28:29Z",
+            "modified_time": "2019-09-13T12:21:00Z",
+            "name": "2019-9-6 1.9 Linear Transformation+.md",
+            "tags": [
+                "Lecture Notes"
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-09T13:20:30Z",
+            "modified_time": "2019-09-13T17:15:29Z",
+            "name": "2019-9-9 2.1 Matrix Operations.md",
+            "tags": [
+                "Lecture Notes"
+            ]
+        },
+        {
+            "attachment_folder": "20190910111156084_15828",
+            "attachments": [
+                {
+                    "name": "WS1.9.pdf"
+                }
+            ],
+            "created_time": "2019-09-10T15:11:48Z",
+            "modified_time": "2019-09-11T02:58:42Z",
+            "name": "2019-9-10 WS 1.9.md",
+            "tags": [
+                "Worksheet"
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-11T12:22:35Z",
+            "modified_time": "2019-09-11T12:22:56Z",
+            "name": "2019-9-11 Midterm Prep.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-13T13:12:08Z",
+            "modified_time": "2019-09-13T20:35:37Z",
+            "name": "2019-9-13 2.2 Inverse Matrix.md",
+            "tags": [
+                "Lecture Notes"
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-16T00:49:10Z",
+            "modified_time": "2019-09-16T13:37:42Z",
+            "name": "2019-9-15 2.3 Characterizations of Invertible Matrices.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-16T13:42:19Z",
+            "modified_time": "2019-09-17T14:28:22Z",
+            "name": "2019-9-16 2.4 Partitioned Matrix.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-17T12:13:35Z",
+            "modified_time": "2019-09-17T12:22:13Z",
+            "name": "2019-9-17 WS 2.1.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-18T18:55:02Z",
+            "modified_time": "2019-09-26T02:50:26Z",
+            "name": "2019-9-18 2.5 Matrix Factorization.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-19T20:28:13Z",
+            "modified_time": "2019-09-19T20:55:33Z",
+            "name": "2019-9-19 WS 2.2 & WS 2.3.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-19T20:57:50Z",
+            "modified_time": "2019-09-19T21:13:12Z",
+            "name": "2019-9-19 WS 2.4 & WS 2.5.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-20T17:02:54Z",
+            "modified_time": "2019-09-22T00:40:04Z",
+            "name": "2019-9-20 2.6 The Leontif Input-Output Model.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-20T18:14:12Z",
+            "modified_time": "2019-09-20T18:40:09Z",
+            "name": "2019-9-20 2.7 Computer Graphics.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-23T13:33:18Z",
+            "modified_time": "2019-09-24T14:45:58Z",
+            "name": "2019-9-23 2.8 Subspaces of R^n.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-24T12:21:39Z",
+            "modified_time": "2019-09-24T12:48:23Z",
+            "name": "2019-9-24 WS 2.6  & WS 2.7.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-26T02:53:16Z",
+            "modified_time": "2019-09-26T02:54:16Z",
+            "name": "README.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}
