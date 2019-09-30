@@ -327,7 +327,7 @@
             "attachments": [
             ],
             "created_time": "2019-09-23T13:33:18Z",
-            "modified_time": "2019-09-24T14:45:58Z",
+            "modified_time": "2019-09-26T20:06:29Z",
             "name": "2019-9-23 2.8 Subspaces of R^n.md",
             "tags": [
             ]
@@ -338,7 +338,7 @@
             ],
             "created_time": "2019-09-24T12:21:39Z",
             "modified_time": "2019-09-24T12:48:23Z",
-            "name": "2019-9-24 WS 2.6  & WS 2.7.md",
+            "name": "2019-9-24 WS 2.6 & WS 2.7.md",
             "tags": [
             ]
         },
@@ -349,6 +349,56 @@
             "created_time": "2019-09-26T02:53:16Z",
             "modified_time": "2019-09-26T03:06:57Z",
             "name": "README.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-26T19:51:43Z",
+            "modified_time": "2019-09-26T20:27:24Z",
+            "name": "2019-9-25 2.9 Dimension and Rank.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-26T20:28:06Z",
+            "modified_time": "2019-09-26T20:46:30Z",
+            "name": "2019-9-26 WS 2.8.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-26T20:46:44Z",
+            "modified_time": "2019-09-29T22:34:16Z",
+            "name": "2019-9-26 WS 2.9.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-29T22:34:39Z",
+            "modified_time": "2019-09-30T13:35:17Z",
+            "name": "Determinants.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-09-30T13:35:01Z",
+            "modified_time": "2019-09-30T13:45:36Z",
+            "name": "Markov Chains.md",
             "tags": [
             ]
         }
