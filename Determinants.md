@@ -255,7 +255,7 @@ $$
 
 ## Geometrix Significance
 ### Area of Parallelpiped
-# IMAGE PENDING
+![](_v_images/20190930125347650_7385.png)
 
 $\text{Area of a parallelogram} = \det \begin{bmatrix} a & c \\ b & d \end{bmatrix} = ad - bc$
 
@@ -270,7 +270,7 @@ Calculate the area spanned by the points: $(-2, -2), (0, 3), (4, -1), (6, 4)$.
 
 **Solution**:
 
-# IMAGE PENDING
+![](_v_images/20190930125707955_26569.png)
 
 $$
 A = \left|\det \begin{bmatrix} 2 & 6 \\ 5 & 1 \end{bmatrix}\right| = |2 - 30| = 28
@@ -279,4 +279,4 @@ $$
 ### Transform
 If $T_A: \mathbb{R}^n \mapsto \mathbb{R}^n$, and $S$ is some parallelogram in $\mathbb{R}^n$, then volume $\text{volume}(T_A(S)) = |\det A|\cdot\text{volume}(S)$
 
-# IMAGE PENDING
+![](_v_images/20190930130129904_27823.png)

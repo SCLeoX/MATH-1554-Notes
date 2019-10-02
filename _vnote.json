@@ -387,7 +387,7 @@
             "attachments": [
             ],
             "created_time": "2019-09-29T22:34:39Z",
-            "modified_time": "2019-09-30T13:35:17Z",
+            "modified_time": "2019-09-30T17:01:32Z",
             "name": "Determinants.md",
             "tags": [
             ]
@@ -397,8 +397,18 @@
             "attachments": [
             ],
             "created_time": "2019-09-30T13:35:01Z",
-            "modified_time": "2019-09-30T13:45:36Z",
+            "modified_time": "2019-10-02T19:14:42Z",
             "name": "Markov Chains.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2019-10-01T21:23:33Z",
+            "modified_time": "2019-10-01T21:43:00Z",
+            "name": "2019-10-1 WS 3.1 - 3.3.md",
             "tags": [
             ]
         }
