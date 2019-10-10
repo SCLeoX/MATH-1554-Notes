@@ -123,6 +123,10 @@ A stochastic matrix $P$ is regular if there is some $k$ such that $P^k$ only con
 
 If $P$ is a regular stochastic matrix, then $P$ has a unique steady state vector $\vec{q}$, and $\vec{x_{k+1}} = P\vec{x_k}$ converges to $\vec{q}$ as $k \to \infty$.
 
+Nonregular: for all $k \in N$, $P^h$ has some entry = 0.
+
+If there are more than one steady-state vector or no steadt-state vector -> Not regular
+
 ### Examples
 Non-Regular:
 ```mermaid
@@ -203,4 +207,4 @@ $$
 \end{aligned}
 $$
 
-Use the last row, we can guess that $x_2 = 5$ and $x_3 = 3$. Plug in to the first row, we get $x_1 = \frac{11}{2}$. Convert to probability vector: $\vec{q} = \begin{bmatrix} \frac{11}{27} \\ \frac{10}{27} \\ \frac{6}{27} \end{bmatrix}$.
+Using the last row, we can guess that $x_2 = 5$ and $x_3 = 3$. Plug in to the first row, we get $x_1 = \frac{11}{2}$. Convert to probability vector: $\vec{q} = \begin{bmatrix} \frac{11}{27} \\ \frac{10}{27} \\ \frac{6}{27} \end{bmatrix}$.
